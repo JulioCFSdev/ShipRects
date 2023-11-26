@@ -47,8 +47,23 @@ TagManager:
   - name: ShallowWaters
     uniqueID: 2920656999
     locked: 0
+  - name: Colliders
+    uniqueID: 1933256817
+    locked: 0
   - name: Islands
     uniqueID: 3465828991
+    locked: 0
+  - name: FortWalls
+    uniqueID: 1804869371
+    locked: 0
+  - name: Decoration
+    uniqueID: 1156423095
+    locked: 0
+  - name: Composite
+    uniqueID: 3620853277
+    locked: 0
+  - name: WorldLimits
+    uniqueID: 1167972619
     locked: 0
   - name: WarFog
     uniqueID: 2302245355
